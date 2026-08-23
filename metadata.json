@@ -1,0 +1,6 @@
+{
+  "name": "黃品澄的學習歷程",
+  "description": "家齊高中黃品澄的學生學習歷程個人網站與管理後台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
